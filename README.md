@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 57
-- **Languages:** C++: 49, SQL: 8
-- **Last Updated:** 2026-07-21 12:26 UTC
+- **Solved Problems:** 58
+- **Languages:** C++: 50, SQL: 8
+- **Last Updated:** 2026-07-21 12:37 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -50,6 +50,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 0169 | [Majority Element](0169-majority-element/README.md) | C++ |
 | 0181 | [Employees Earning More Than Their Managers](0181-employees-earning-more-than-their-managers/README.md) | SQL |
 | 0183 | [Customers Who Never Order](0183-customers-who-never-order/README.md) | SQL |
+| 0189 | [Rotate Array](0189-rotate-array/README.md) | C++ |
 | 0202 | [Happy Number](0202-happy-number/README.md) | C++ |
 | 0205 | [Isomorphic Strings](0205-isomorphic-strings/README.md) | C++ |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | C++ |
