@@ -15,7 +15,6 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 <!-- START_DYNAMIC_STATS -->
 - **Solved Problems:** 57
 - **Languages:** C++: 49, SQL: 8
-- **Last Updated:** 2026-07-20 13:55 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
