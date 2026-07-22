@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 58
-- **Languages:** C++: 50, SQL: 8
-- **Last Updated:** 2026-07-21 12:37 UTC
+- **Solved Problems:** 59
+- **Languages:** C++: 51, SQL: 8
+- **Last Updated:** 2026-07-22 12:28 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -40,6 +40,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 0050 | [Powx N](0050-powx-n/README.md) | C++ |
 | 0058 | [Length Of Last Word](0058-length-of-last-word/README.md) | C++ |
 | 0066 | [Plus One](0066-plus-one/README.md) | C++ |
+| 0067 | [Add Binary](0067-add-binary/README.md) | C++ |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | C++ |
 | 0075 | [Sort Colors](0075-sort-colors/README.md) | C++ |
 | 0083 | [Remove Duplicates From Sorted List](0083-remove-duplicates-from-sorted-list/README.md) | C++ |
