@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 59
-- **Languages:** C++: 51, SQL: 8
-- **Last Updated:** 2026-07-26 14:02 UTC
+- **Solved Problems:** 60
+- **Languages:** C++: 52, SQL: 8
+- **Last Updated:** 2026-07-27 03:45 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -84,6 +84,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 1331 | [Rank Transform Of An Array](1331-rank-transform-of-an-array/README.md) | C++ |
 | 1346 | [Check If N And Its Double Exist](1346-check-if-n-and-its-double-exist/README.md) | C++ |
 | 1378 | [Replace Employee Id With The Unique Identifier](1378-replace-employee-id-with-the-unique-identifier/README.md) | SQL |
+| 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array/README.md) | C++ |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude/README.md) | C++ |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array/README.md) | C++ |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums/README.md) | C++ |
