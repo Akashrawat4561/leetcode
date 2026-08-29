@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 61
-- **Languages:** C++: 53, SQL: 8
-- **Last Updated:** 2026-08-24 13:29 UTC
+- **Solved Problems:** 62
+- **Languages:** C++: 54, SQL: 8
+- **Last Updated:** 2026-08-29 08:31 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -89,6 +89,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array/README.md) | C++ |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product/README.md) | C++ |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums/README.md) | C++ |
+| 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k/README.md) | C++ |
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md) | C++ |
 <!-- END_DYNAMIC_TABLE -->
 
