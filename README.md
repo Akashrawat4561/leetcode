@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 62
-- **Languages:** C++: 54, SQL: 8
-- **Last Updated:** 2026-08-29 08:31 UTC
+- **Solved Problems:** 63
+- **Languages:** C++: 55, SQL: 8
+- **Last Updated:** 2026-08-30 14:46 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -55,6 +55,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 0202 | [Happy Number](0202-happy-number/README.md) | C++ |
 | 0205 | [Isomorphic Strings](0205-isomorphic-strings/README.md) | C++ |
 | 0217 | [Contains Duplicate](0217-contains-duplicate/README.md) | C++ |
+| 0219 | [Contains Duplicate Ii](0219-contains-duplicate-ii/README.md) | C++ |
 | 0234 | [Palindrome Linked List](0234-palindrome-linked-list/README.md) | C++ |
 | 0242 | [Valid Anagram](0242-valid-anagram/README.md) | C++ |
 | 0258 | [Add Digits](0258-add-digits/README.md) | C++ |
