@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 64
-- **Languages:** C++: 56, SQL: 8
-- **Last Updated:** 2026-09-27 12:52 UTC
+- **Solved Problems:** 65
+- **Languages:** C++: 57, SQL: 8
+- **Last Updated:** 2026-09-27 13:10 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -88,6 +88,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array/README.md) | C++ |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude/README.md) | C++ |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array/README.md) | C++ |
+| 3498 | [Reverse Degree Of A String](3498-reverse-degree-of-a-string/README.md) | C++ |
 | 3550 | [Smallest Index With Digit Sum Equal To Index](3550-smallest-index-with-digit-sum-equal-to-index/README.md) | C++ |
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product/README.md) | C++ |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums/README.md) | C++ |
