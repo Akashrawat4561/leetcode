@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 69
-- **Languages:** C++: 60, SQL: 9
-- **Last Updated:** 2026-11-04 14:32 UTC
+- **Solved Problems:** 70
+- **Languages:** C++: 60, SQL: 10
+- **Last Updated:** 2026-11-04 14:44 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -86,6 +86,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 1346 | [Check If N And Its Double Exist](1346-check-if-n-and-its-double-exist/README.md) | C++ |
 | 1378 | [Replace Employee Id With The Unique Identifier](1378-replace-employee-id-with-the-unique-identifier/README.md) | SQL |
 | 1464 | [Maximum Product Of Two Elements In An Array](1464-maximum-product-of-two-elements-in-an-array/README.md) | C++ |
+| 1527 | [Patients With A Condition](1527-patients-with-a-condition/README.md) | SQL |
 | 1633 | [Percentage Of Users Attended A Contest](1633-percentage-of-users-attended-a-contest/README.md) | SQL |
 | 1732 | [Find The Highest Altitude](1732-find-the-highest-altitude/README.md) | C++ |
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array/README.md) | C++ |
