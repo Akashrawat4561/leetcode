@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 67
-- **Languages:** C++: 59, SQL: 8
-- **Last Updated:** 2026-10-19 12:47 UTC
+- **Solved Problems:** 68
+- **Languages:** C++: 60, SQL: 8
+- **Last Updated:** 2026-11-04 14:17 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -95,6 +95,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 3622 | [Check Divisibility By Digit Sum And Product](3622-check-divisibility-by-digit-sum-and-product/README.md) | C++ |
 | 3658 | [Gcd Of Odd And Even Sums](3658-gcd-of-odd-and-even-sums/README.md) | C++ |
 | 3718 | [Smallest Missing Multiple Of K](3718-smallest-missing-multiple-of-k/README.md) | C++ |
+| 3736 | [Minimum Moves To Equal Array Elements Iii](3736-minimum-moves-to-equal-array-elements-iii/README.md) | C++ |
 | 3754 | [Concatenate Non Zero Digits And Multiply By Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md) | C++ |
 <!-- END_DYNAMIC_TABLE -->
 
