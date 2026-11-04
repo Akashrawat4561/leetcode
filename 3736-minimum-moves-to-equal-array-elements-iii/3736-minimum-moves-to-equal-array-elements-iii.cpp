@@ -9,6 +9,6 @@ public:
         time += maxNum - nums[i];
     }
 
-    return time ;
+    return time;
     }
 };
