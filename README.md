@@ -13,9 +13,9 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 ## Current Progress
 
 <!-- START_DYNAMIC_STATS -->
-- **Solved Problems:** 73
-- **Languages:** C++: 63, SQL: 10
-- **Last Updated:** 2026-11-22 08:52 UTC
+- **Solved Problems:** 74
+- **Languages:** C++: 64, SQL: 10
+- **Last Updated:** 2026-11-22 12:59 UTC
 <!-- END_DYNAMIC_STATS -->
 
 ## How to Use
@@ -92,6 +92,7 @@ This repository contains my LeetCode practice solutions, organized by problem nu
 | 1979 | [Find Greatest Common Divisor Of Array](1979-find-greatest-common-divisor-of-array/README.md) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/README.md) | C++ |
 | 2124 | [Check If All As Appears Before All Bs](2124-check-if-all-as-appears-before-all-bs/README.md) | C++ |
+| 2567 | [Minimum Score By Changing Two Elements](2567-minimum-score-by-changing-two-elements/README.md) | C++ |
 | 2778 | [Sum Of Squares Of Special Elements](2778-sum-of-squares-of-special-elements/README.md) | C++ |
 | 3105 | [Longest Strictly Increasing Or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | C++ |
 | 3364 | [Minimum Positive Sum Subarray](3364-minimum-positive-sum-subarray/README.md) | C++ |
